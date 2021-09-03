@@ -1,4 +1,4 @@
-<h1 align="center">samsonkiran02</h1>
+<h2 align="center">samsonkiran02</h2>
 
 ### Hi there 👋
 
